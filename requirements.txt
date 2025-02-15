@@ -1,0 +1,7 @@
+#目前有裝的套件
+numpy
+pandas
+matplotlib
+
+#一次在終端機安裝所有套件的指令
+pip install -r requirements.txt 
