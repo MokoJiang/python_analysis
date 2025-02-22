@@ -3,5 +3,10 @@ numpy
 pandas
 matplotlib
 
+#目前還沒有裝的套件
+openpyxl
+requests
+beautifulsoup4
+
 #一次在終端機安裝所有套件的指令
 pip install -r requirements.txt 
